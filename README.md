@@ -1,4 +1,4 @@
-Password Generator App
+Password Generator App - 
 A simple password generator built with React and Tailwind CSS that allows users to create secure passwords. The app includes options to customize password length and toggle the inclusion of numbers and special characters. Users can easily copy the generated password to the clipboard. It uses React hooks (useState, useCallback, useEffect, and useRef) to manage state, generate passwords, and handle clipboard functionality.
 
 -----------------------------------------------------------------------------------------------------------------
